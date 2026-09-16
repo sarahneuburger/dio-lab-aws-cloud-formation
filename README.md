@@ -2,7 +2,7 @@
  
 O AWS CloudFormation é um serviço de Infraestrutura como Código (IaC) que permite criar, gerenciar e provisionar recursos da AWS por meio de arquivos de template em JSON ou YAML. Com ele, é possível automatizar a criação de ambientes completos de forma padronizada, segura e reproduzível.
  
-## Principais Funcionalidades
+## :gem: Principais Funcionalidades
  
 - Provisionamento automático de recursos da AWS a partir de templates.
 - Gerenciamento centralizado da infraestrutura como código.
